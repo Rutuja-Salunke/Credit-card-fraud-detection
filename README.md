@@ -1,6 +1,4 @@
 # GuardianShield: A Machine Learning Approach to Credit Card Fraud Detection
-Sure, here's a story told in bullet points about a credit card fraud detection project using machine learning:
-
 ## Introduction:
   - The Problem: Rising instances of credit card fraud have become a major concern for financial institutions and cardholders.
   - The Goal: Develop a machine learning solution to detect and prevent fraudulent credit card transactions in real-time.
