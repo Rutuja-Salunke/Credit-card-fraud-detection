@@ -1,4 +1,4 @@
-# Unmasking Fraudsters: A Journey Through Machine Learning Algorithms for Credit Card Fraud Detection
+# Unmasking Fraudsters : A Journey Through Machine Learning Algorithms for Credit Card Fraud Detection
 
 ## Introduction:
 - **The Challenge:** Credit card fraud poses a substantial threat to both financial institutions and cardholders worldwide.
